@@ -1,0 +1,8 @@
+.classpath
+.settings
+.project
+target*
+cobertura.ser
+stacktrace.log
+*.swp
+*un~
